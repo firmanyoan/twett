@@ -8,7 +8,7 @@ use App\Http\Controllers\Controller;
 class AboutController extends Controller
 {
     /**
-     * Display a listing of the resource.
+     * Display a listing of the resource.54ew4aE CXS N MNBV '
      *
      * @return \Illuminate\Http\Response
      */
